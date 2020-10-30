@@ -2,9 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Preview](crypto.png?raw=true)
+
+## Description
+
+The Purpose of this application is display various different cryptocurrency which fetches the latest data from making an API call using Axios. The Application is created using HTML5, CSS3, JS, React(Hooks). To make an API call axios library is been used. The Application is make responsive so that it could be used in various different screen sizes.
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Run the command to install dependencies in the application.
 
 ### `npm start`
 
